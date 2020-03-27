@@ -1,0 +1,7 @@
+ipywidgets
+voila
+ipyvuetify
+bqplot
+voila-vuetify
+voila-material
+
